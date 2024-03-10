@@ -17,21 +17,15 @@ Usage
 
 1. Clone Repository:
    Clone the repository to your local machine using Git:
-   '''
    git clone https://github.com/your-username/task-manager.git
-   '''
 
 2. Navigate to Directory:
    Navigate to the directory where the repository has been cloned:
-   '''
    cd task_manager
-   '''
 
 3. Run the Applications:
    Execute the task manager applications:
-   '''
    python task_manager.py
-   '''
 
 4. Select Option:
    Once the application is running, you will be prompted to select one of the options listed above. Enter the corresponding option code to proceed.
@@ -46,12 +40,12 @@ Usage
    To exit the application, simply follow the provided instructions or use the designated exit command.
    
 
-##Contributors
+Contributors
 
 Yisheng Wu(@yishengwu)
 
 
-##Issues & Feedback
+Issues & Feedback
 
 If you encounter any issues or have feedback to provide, please feel free to open an issue on GitHub or reach out to me directly.
 Thank you for using our Task Manager! We hope it helps you stay organized and efficient.
