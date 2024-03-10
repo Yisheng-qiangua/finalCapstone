@@ -1,7 +1,9 @@
 Task Manager
+
 Welcome to our Task Manager! This README file provides an overview of the available options and instructions on how to use them effectively.
 
 Functionality
+
 - register a user(re): this option allows users to register themselves in the Task Manager.
 - add a task(ad): users can add a task and specify the task details and deadline.
 - view all tasks(va): this option displays all tasks available in the system, regardless of the user.
@@ -10,6 +12,7 @@ Functionality
 - display statistics(ds): only admin users can display the summaries of users and tasks.
 
 Usage
+
 1. Clone Repository:
    Clone the repository to your local machine using Git:
      git clone https://github.com/your-username/task-manager.git
@@ -35,8 +38,10 @@ Usage
    To exit the application, simply follow the provided instructions or use the designated exit command.
    
 Contributors
+
 Yisheng Wu(@yishengwu)
 
 Issues & Feedback
+
 If you encounter any issues or have feedback to provide, please feel free to open an issue on GitHub or reach out to me directly.
 Thank you for using our Task Manager! We hope it helps you stay organized and efficient.
