@@ -1,6 +1,6 @@
 ## Task Manager
 
-Welcome to our Task Manager! This README file provides an overview of the available options and instructions on how to use them effectively.
+Welcome to Task Manager! This README file provides an overview of the available options and instructions on how to use them effectively.
 
 
 ## Functionality
