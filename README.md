@@ -30,7 +30,7 @@ Welcome to Task Manager! This README file provides an overview of the available 
   only admin users can display the summaries of users and tasks.
 
 
-## Usage
+## Installation 
 
 1. **Clone Repository:**
 
@@ -50,19 +50,22 @@ Welcome to Task Manager! This README file provides an overview of the available 
 
    `python task_manager.py`
 
-4. **Select Option:**
+
+## Usage
+
+1. **Select Option:**
 
    Once the application is running, you will be prompted to select one of the options listed above. Enter the corresponding option code to proceed.
 
-5. **Follow Prompts:**
+2. **Follow Prompts:**
 
    Follow the prompts provided by the application to complete the desired task. Depending on the option selected, you may need to input additional information such as task details, user registration details, etc.
 
-6. **Review Output:**
+3. **Review Output:**
 
    After completing your task, review the output displayed by the application. This could include a list of tasks, reports, or statistics.
 
-7. **Exit Application:**
+4. **Exit Application:**
 
    To exit the application, simply follow the provided instructions or use the designated exit command.
 
